@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Monseigneur Reynan
+- 👀 I’m interested in You...
+- 💞️ I’m currently learning on how to love you... 
+- 📫 How to reach me? There will be no need for that, Ill be the one who's gonna find u first. ...
+
+<!---
+ReynanKaguya/ReynanKaguya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
